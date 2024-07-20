@@ -1,6 +1,6 @@
 ### Hi there 👋! It's me, Adrián González Galván
-- 👨🏻‍💻 I' currently working as back-end developer in (@acidtango)[https://github.com/acidtango].
-- 📂 You can find my work account searching (@acidAdrianGG)[https://github.com/AcidAdrianGG/AcidAdrianGG]
+- 👨🏻‍💻 I' currently working as back-end developer in [@acidtango](https://github.com/acidtango).
+- 📂 You can find my work account searching [@AcidAdrianGG](https://github.com/AcidAdrianGG/AcidAdrianGG).
 <!--
 **aglezg/aglezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
